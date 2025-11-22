@@ -25,6 +25,7 @@ res.slot()
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="804" height="249" alt="image" src="https://github.com/user-attachments/assets/57d217e6-3f0e-45fb-8a3b-4d3a98dc3df6" />
+
 
 ## Result
